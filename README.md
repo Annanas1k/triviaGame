@@ -43,5 +43,4 @@ Trivia Quiz Game este un joc interactiv de tip quiz, în care utilizatorul trebu
 ## Structura fișierelor
 - **triviaGame.py** - Fișierul principal al jocului, care conține logica jocului și implementarea întrebărilor.
 - **questions.json** - Fișierul care conține întrebările și opțiunile de răspuns, în format JSON.
-```
 
