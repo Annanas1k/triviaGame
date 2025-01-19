@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Ce limbaj de programare este cunoscut pentru simbolul său 'șarpe'? ",
+        "options": ["Python", "Cobra", "Ruby", "Java"],
+        "correct": 0
+    },
+    {
+        "question": "Ce înseamnă acronimul SQL?",
+        "options": ["Structured Query Language", "Simple Query Language", "System Query Language", "Sequential Query Language"],
+        "correct": 0
+    },
+    {
+        "question": "Ce simbol se folosește pentru comentarii într-un fișier Python?",
+        "options": ["//", "/*", "#", "<!--"],
+        "correct": 2
+    },
+    {
+        "question": "Care este valoarea inițială a unui index într-o listă în majoritatea limbajelor de programare?",
+        "options": ["1", "0", "-1", "Depinde de limbaj"],
+        "correct": 1
+    },
+    {
+        "question": "Ce extensie este utilizată pentru fișierele scrise în Java?",
+        "options": [".js", ".java", ".py", ".class"],
+        "correct": 1
+    },
+    {
+        "question": "Ce funcție este utilizată pentru a afișa text în limbajul C?",
+        "options": ["print()", "System.out.println()", "cout", "printf()"],
+        "correct": 3
+    },
+    {
+        "question": "Cum se numește funcția folosită pentru a converti un string într-un număr întreg în Python?",
+        "options": ["int()", "parseInt()", "toInteger()", "cast()"],
+        "correct": 0
+    },
+    {
+        "question": "Ce operator este utilizat pentru a compara două valori în Python?",
+        "options": ["=", "==", "!=", "==="],
+        "correct": 1
+    },
+    {
+        "question": "Ce simbol se folosește pentru a separa liniile de cod în Python?",
+        "options": [";", ":", "Indentare", "\\"],
+        "correct": 2
+    },
+    {
+        "question": "Ce metodă este folosită pentru a adăuga un element într-o listă în Python?",
+        "options": ["add()", "append()", "insert()", "push()"],
+        "correct": 1
+    }
+]
