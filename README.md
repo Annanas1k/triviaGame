@@ -1,4 +1,3 @@
-```markdown
 # Trivia Quiz Game
 
 ## Descriere
